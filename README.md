@@ -3,7 +3,7 @@
 
 
 
-I'm a passionate, self-taught frontend web and app developer living in **Dhaka, Bangladesh**.
+A passionate, self-taught frontend web and app developer living in **Dhaka, Bangladesh**.
 - Mobile app developer <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
 - Frontend web developer <img align="center" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" />
 
@@ -34,33 +34,33 @@ I'm a passionate, self-taught frontend web and app developer living in **Dhaka, 
 <div align="center">
   <h4> Tech Stack </h4>
 <div>
-<img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+<img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
 </div>
 <br/>
 <div>
-<img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-<img align="center" src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" />
+<img align="center" src="https://img.shields.io/badge/Nuxt-black?style=flat&logo=nuxt.js&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" />
 </div>
 <br/>
 <div>
-<img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white" />
 </div>
 <br/>
 <div>
-<img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
-<img align="center" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+<img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black" />
+<img align="center" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
 </div>
   </div>
 <br/>
