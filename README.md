@@ -10,7 +10,7 @@ A passionate, self-taught frontend web and app developer living in **Dhaka, Bang
 <p>
   🌱 I’m currently learning Mobile App Development
   <br>
-  📚 When I am free, I play games and read books, mostly non-fictions.
+  📚 When I am free, I play games and read books, mostly non-fiction.
   <br>
   💬 Ask me about anything <a href="https://github.com/motasimfuad/motasimfuad/issues" title="Issues">here</a>
 </p>
@@ -23,7 +23,7 @@ A passionate, self-taught frontend web and app developer living in **Dhaka, Bang
 <br/>
 <div align="center">
 <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=motasimfuad&show_icons=true&theme=jolly" />
-<img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motasimfuad&layout=compact&theme=jolly" />
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motasimfuad&layout=compact&theme=jolly&langs_count=4" />
 </div>
 <br/>
 
