@@ -91,5 +91,5 @@ A passionate, self-taught frontend web and app developer living in **Dhaka, Bang
 
 <br/>
 <div align="center">
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=${motasimfuad}&left_color=lightgrey&right_color=black" />
+<a href="https://hits.sh/github.com/motasimfuad/motasimfuad/"><img alt="Hits" src="https://hits.sh/github.com/motasimfuad/motasimfuad.svg?label=Visits&color=B64158&labelColor=34225e"/></a>
   </div>
